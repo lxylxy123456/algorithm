@@ -1,6 +1,9 @@
 # algorithm
 * Personal implementation of some algorithms in "Introduction to Algorithms", third edition
 
+# **Deprecated**
+This project is deprecated. It has known bug unfixed and will no longer be maintained. Please use https://github.com/lxylxy123456/algorithms instead.
+
 # Contents
 
 | Ch.| File							| Algorithm								| Page |
